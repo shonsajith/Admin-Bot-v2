@@ -1,4 +1,4 @@
-# adminbotv2
+# Admin Bot v2
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
@@ -6,7 +6,7 @@ simple to use.
 
 To deploy me on heroku, use below button:
 
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fculprit-k%2Fadminbotv2)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fshonsajith%2FAdmin-Bot-v2)
 
 ## Starting the bot.
 
@@ -165,3 +165,16 @@ it is necessary to migrate it in the db.
 
 The `__stats__()` function is for retrieving module statistics, eg number of users, number of chats. This is accessed 
 through the `/stats` command, which is only available to the bot owner.
+ 
+#FOLLOW ME IN,
+  [INSTAGRAM](https://www.instagram.com/shon_sajith/)
+  [TELEGRAM](https://t.me/shonsajith)
+  [GITHUB](https://github.com/shonsajith)
+  
+# JOIN OUR GROUP
+  
+  [𝕄𝕆𝕍𝕀𝔼 ℍ𝕆𝕌𝕊𝔼 𝔼ℕ𝕋𝔼ℝ𝕋𝔸𝕀ℕ𝕄𝔼ℕ𝕋𝕊](https://t.me/Movie_House_1)
+  
+  
+  
+  #THANK YOU
