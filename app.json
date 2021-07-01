@@ -1,7 +1,7 @@
 {
-  "name": "admimbotv2",
+  "name": "Admimbotv2",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/MOVIE-HOUSE-ENTERTAINM",
+  "logo": "https://telegra.ph/file/5d5453f2b2d05d78d7c43.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/culprit-k/adminbotv2",
+  "repository": "https://github.com/shonsajith/Admin-Bot-v2",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
@@ -23,11 +23,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1063909368"
+      "value": "1287697159"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "abhijith876"
+      "value": "shonsajith"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -42,15 +42,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1063909368"
+      "value": "1287697159"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1063909368"
+      "value": "1287697159"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1063909368"
+      "value": "1287697159"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
